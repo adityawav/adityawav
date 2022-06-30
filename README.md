@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aditya
+- 👋 Hi, I’m Aditya Sharma
 - 👀 I’m interested in programming and cars
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Javascript and C++
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me adityawavnew@gmail.com
 
